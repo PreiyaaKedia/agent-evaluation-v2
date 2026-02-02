@@ -1,0 +1,16 @@
+azure-ai-projects== 2.0.0b3
+azure-ai-voicelive[aiohttp]
+azure-core
+pyaudio
+python-dotenv
+azure-identity
+
+mcp[cli]
+psycopg[binary]
+azure-mgmt-postgresqlflexibleservers
+
+# AWS Connect + GPT-4o Realtime Dependencies
+websockets>=12.0
+openai>=1.0.0
+asyncio
+audioop-lts
